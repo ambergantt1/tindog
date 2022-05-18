@@ -166,6 +166,7 @@ p {
 .footer-icon {
   padding: 0.5%;
   padding-bottom: 2%;
+  color: #000;
 }
 
 .footer-icon:hover {
