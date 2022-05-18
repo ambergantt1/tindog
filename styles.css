@@ -173,6 +173,10 @@ p {
   color: #ef8172;
 }
 
+.envelope {
+  color: #000;
+}
+
 @media (max-width:1028px) {
 
   #title{
